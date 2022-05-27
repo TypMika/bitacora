@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.title{
+  font-family: "Spacemono", monospace;
+  font-size: 1.5rem;
+  text-align: center;
+}
+#map {
+  height: 400px;
+  width: 600px;
+ }
+
+ .map-container{
+  text-align: center;
+  height: 20rem;
+  width: 100% ;
+ }
+
+ .map-position{
+  margin: auto;
+  
+ }
