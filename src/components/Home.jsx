@@ -52,11 +52,11 @@ var options={
     Descripcion: "Site de Gerencia",
   }
  }
-
+ 
 
 function Map() {
   return (
-    <LoadScript googleMapsApiKey="AIzaSyCgGTnbz4-IgyKu9w00zfhNlavxV4_UmE8">
+    <LoadScript googleMapsApiKey="">
       <GoogleMap mapContainerStyle={containerStyle} center={position} zoom={17}>
         <Marker
           title={"The marker`s title will appear as a tooltip."}
